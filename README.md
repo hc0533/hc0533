@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hiroshi Imaizumi
+- 👋 Hi, I’m Hiroshi Imaizumi.
 - 👀 I’m interested in new business ideas by using machine learning and deep learning.
 - 🌱 I’m currently learning blockchain like Ethereum related to traceability system.
-- 💞️ I cooperate with the ai lab in the area of AI drug discovery.
+- 💞️ I cooperate with the AI lab in the area of AI drug discovery.
 - 📫 How to reach me by e-mail:hc0533@gmail.com
 
 <!---
