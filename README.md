@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Hiroshi Imaizumi.
-- 👀 I’m interested in new business ideas by using machine learning and deep learning.
-- 🌱 I’m currently learning blockchain like Ethereum related to traceability system.
-- 💞️ I cooperate with the AI lab in the area of AI drug discovery.
-- 📫 How to reach me : e-mail:hc0533@gmail.com
+- 👋 Hi, I’m Hiroshi Imaizumi, Chief Technology Officer (CTO) of Software Institute Inc.
+- 🚀 Specializing in AI-driven business automation (LLMs, AI Agents, n8n).
+- 🛠️ Currently developing autonomous voice agents for sales and operations.
+- 🧪 Background in AI drug discovery and 18+ years of IT leadership in financial services.
+- 📧 Contact: https://sofuken.com/contact/
 
 <!---
 hc0533/hc0533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
